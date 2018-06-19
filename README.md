@@ -1,5 +1,6 @@
-# Crypto_Images
+# Crypto Images
 Images of all crypto coins available in Altfolio
+
 It's possible that some images have a different name but look the same.
 
 ## So from which exchange come these coins?
