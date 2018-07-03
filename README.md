@@ -47,7 +47,7 @@ It's possible that some images have a different name but look the same.
 ### EXX
 
    
-### GDAX
+### Coinbase Pro
 
    
 ### Gemini
