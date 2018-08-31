@@ -81,7 +81,12 @@ It's possible that some images have a different name but look the same.
 
 
 If you have any questions or regards you can contact us at wingcrony@gmail.com
-Donations are welcome:
+
+## Donations are welcome:
+
 BTC: 35nDkYisc58UjkQXBfqeqhYjVV31uYUM96
+
 LTC: LeZTmUNPezQQAmwosbVBNPpjEfhKYEpNNX
+
 ETH: 0x9F9Da7299910bC75d2Bc11fc50bA0d3e9091509D
+
