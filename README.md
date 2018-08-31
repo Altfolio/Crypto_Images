@@ -6,7 +6,19 @@ It's possible that some images have a different name but look the same.
 ## So from which exchange come these coins?
 
 ### AidosMarket
+
  
+### Allcoin
+
+
+### Anybits
+
+
+### BCEX
+
+
+### BigOne
+
     
 ### Binance
 
@@ -24,6 +36,9 @@ It's possible that some images have a different name but look the same.
 
    
 ### C-Cex
+
+
+### COBINHOOD
 
    
 ### Coinbene
